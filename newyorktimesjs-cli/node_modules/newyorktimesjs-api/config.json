@@ -1,0 +1,4 @@
+{
+"base" : "https://api.nytimes.com/svc/search/v2/articlesearch.json?q=",
+"apikey" : "NrOtRcMPXPgcXmmDSZhGk3n1Yw3Bubb7"
+}

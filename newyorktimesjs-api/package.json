@@ -1,0 +1,14 @@
+{
+  "name": "newyorktimes",
+  "version": "1.0.0",
+  "description": "A Command Line Application that uses The New York Times API",
+  "main": "api.js",
+  "scripts": {
+    "start": "echo \"Error: No test specified\" && exit 1"
+  },
+  "author": "Milca Ucelo, Bruck Negash, Jean Paul",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^7.1.1"
+  }
+}
